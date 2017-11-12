@@ -1,13 +1,19 @@
 ----------------------------------------------------------------
-Sun Nov 05 12:56:45 CST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015f-8a89-c369-000042c45230 
+Sat Nov 11 21:56:37 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015f-ab5e-2eba-000042c452b8 
 on database directory C:\Users\zlc\GDStash\db with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
-Loaded from file:/I:/game/Grim%20Dawn%20Ashes%20of%20Malmouth/GDStash_v119b/lib/derby.jar
+Loaded from file:/I:/game/Grim%20Dawn%20Ashes%20of%20Malmouth/GDStash/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_66-b17
-user.dir=I:\game\Grim Dawn Ashes of Malmouth\GDStash_v119b
+user.dir=I:\game\Grim Dawn Ashes of Malmouth\GDStash
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 11 22:00:26 CST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Nov 11 22:00:26 CST 2017:
+Shutting down instance a816c00e-015f-ab5e-2eba-000042c452b8 on database directory C:\Users\zlc\GDStash\db with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+----------------------------------------------------------------
